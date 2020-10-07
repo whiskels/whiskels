@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring & Hibernate**
 
-- 📫 How to reach me **inartificial (Telegram)**
+- 📫 How to reach me **inartificial (Telegram)** or [e-mail](mailto:kuzmingeo@gmail.com?subject=[GitHub])
 
 
 <h3 align="left">Connect with me:</h3>
