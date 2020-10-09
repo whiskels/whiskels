@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Maksim aka whiskels</h1>
+<h1 align="center">Oye, Beltalowda! I'm Maksim aka whiskels</h1>
 <h3 align="center">Self-taught Java developer and O&G geologist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whiskels" alt="whiskels" /> </p>
