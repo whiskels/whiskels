@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whiskels" alt="whiskels" /> </p>
 
-- 👨‍💻 I’m currently working on my project [TopJava Graduation](https://github.com/whiskels/topjava-graduation)
+- 👨‍💻 I’m currently working on [Restaurant Voting Service](https://github.com/whiskels/topjava-graduation)
 
-- 🕵🏻 Check out my project [TelegramNotifierBot](https://github.com/whiskels/TelegramNotifierBot)
+- 🕵🏻 Check out my projects: [TelegramNotifierBot](https://github.com/whiskels/TelegramNotifierBot), [Calories Management REST app](https://github.com/whiskels/topjava)
 
 - 🌱 I’m currently learning **Spring & Hibernate**
 
