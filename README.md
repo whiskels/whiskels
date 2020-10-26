@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring & Hibernate**
 
-- 📫 How to reach me **whiskels (Telegram)** or [e-mail](mailto:kuzmingeo@gmail.com?subject=[GitHub])
+- 📫 How to reach me **[whiskels (Telegram)](https://t.me/whiskels)** or [e-mail](mailto:kuzmingeo@gmail.com?subject=[GitHub])
 
 
 <h3 align="left">Languages and Tools:</h3>
