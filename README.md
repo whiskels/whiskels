@@ -1,5 +1,5 @@
 <h1 align="center">Oye, Beltalowda! I'm Maksim aka whiskels</h1>
-<h3 align="center">Self-taught Java developer and O&G geologist</h3>
+<h3 align="center">Java Developer, Scrum master and O&G geologist</h3>
 
 <table>
   <tr>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Java, Jenkins, Spring framework, Hibernate,  JUnit, Lombok, Mockito, Postgres, MySQL, Oracle, Maven, Gradle
+Java, Jenkins, Spring framework, Hibernate, JUnit, Lombok, Mockito, Postgres, MySQL, Oracle, Maven, Gradle
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whiskels" alt="whiskels" /> </p>
