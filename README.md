@@ -5,9 +5,8 @@ Passionate about development of cloud-native microservices
 
 **Check out my repos**:
 - [NotifierBot](https://github.com/whiskels/TelegramNotifierBot) - Slack/Telegram reporting system based on JSON/Google Spreadsheet sources
-- [Restaurant Voting Service](https://github.com/whiskels/Restaurant-Voting-REST-API)
-- [Calories Management REST app](https://github.com/whiskels/Calories-Management)
 - [SimpleQuizBot](https://github.com/whiskels/simpleQuizBot) - Simple Quiz bot for Telegram which was created for an article on [JavaRush](https://javarush.ru)
+- [Restaurant Voting Service](https://github.com/whiskels/Restaurant-Voting-REST-API)
 
 ### 📫  Social
 [![Telegram](https://img.shields.io/badge/TELEGRAM-WHISKELS-grey?logo=telegram&style=for-the-badge)](https://t.me/whiskels) [![LinkedIn](https://img.shields.io/badge/linkedin-grey.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whiskels
