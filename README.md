@@ -1,7 +1,7 @@
 ## Oye, Beltalowda! I'm Maksim aka whiskels
-### Java Developer, Scrum master and O&G geologist
+### Java Developer, Architect and Scrum master
 
-Passionate about development of cloud-native microservices
+Passionate about development of cloud-native microservices with expertise spanning CIB, Insurance and O&G
 
 **Check out my repos**:
 - [NotifierBot](https://github.com/whiskels/TelegramNotifierBot) - Slack/Telegram reporting system based on JSON/Google Spreadsheet sources
