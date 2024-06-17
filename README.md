@@ -5,7 +5,8 @@ Passionate about development of cloud-native microservices with expertise spanni
 
 **Check out my repos**:
 - [NotifierBot](https://github.com/whiskels/TelegramNotifierBot) - Slack/Telegram reporting system based on JSON/Google Spreadsheet sources
-- [SimpleQuizBot](https://github.com/whiskels/simpleQuizBot) - Simple Quiz bot for Telegram which was created for an article on [JavaRush](https://javarush.ru)
+- [Outbox Example](https://github.com/whiskels/outbox-example) - Simple Outbox implementation with simulation of anomalies it solves 
+- [SimpleQuizBot](https://github.com/whiskels/simpleQuizBot) - Simple Quiz bot for Telegram which was created for an article on [JavaRush](https://javarush.ru) with more than 40 000 views (oh my!)
 - [Restaurant Voting Service](https://github.com/whiskels/Restaurant-Voting-REST-API)
 
 ### 📫  Social
